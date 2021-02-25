@@ -1,2 +1,2 @@
 # data-structures-and-algorithms-in-python
-I will take a note what I learn data structure and algorithms.
+I take a note in this repository from what I learn data structures and algorithms.
